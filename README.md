@@ -1,4 +1,4 @@
-<h1 style="text-align:center">☔<br>
+<h1 align="center">☔<br>
 🔭</h1>
 
 <h2 style="text-align:center">Precise near-infrared photometry, accounting for precipitable water vapour</h2>
