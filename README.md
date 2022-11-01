@@ -1,7 +1,8 @@
-<h1 align="center">☔<br>
-🔭</h1>
-
-<h2 style="text-align:center">Precise near-infrared photometry, accounting for precipitable water vapour</h2>
+<h1 align="center">
+☔<br>
+🔭<br>
+<br>
+Precise near-infrared photometry, accounting for precipitable water vapour</h1>
 
 <p align="center">
     <a href="">
@@ -11,6 +12,8 @@
         <img src="https://img.shields.io/badge/paper-yellow.svg?style=flat" alt="paper"/>
     </a>
 </p>
+
+<br>
 
 *umbrella* is a code base which can be used to correct the effects of precipitable water vapour (PWV) on near-infrared photometry. It is based on the method described in [Pedersen et al. (2022)](). Please cite this paper if you use *umbrella* in your research. 
 
