@@ -21,3 +21,10 @@
 *umbrella* is a code base which can be used to correct the effects of precipitable water vapour (PWV) on near-infrared photometry. It is based on the method described in [Pedersen et al. (2022)](https://arxiv.org/abs/2211.00156). Please cite this paper if you use *umbrella* in your research. 
 
 To begin, take a look at the [`Tutorial.ipynb`](https://github.com/ppp-one/umbrella/blob/main/Tutorial.ipynb) notebook. This will walk you through the basic usage of *umbrella*. If you have any questions, please open an issue on this repository.
+
+# Installation
+```bash 
+conda create -n umbrella python=3.9.21
+conda activate umbrella
+conda install --file requirements.txt 
+```
